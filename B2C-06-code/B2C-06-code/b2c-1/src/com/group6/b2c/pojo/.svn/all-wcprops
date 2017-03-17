@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/b2c/!svn/ver/221/b2c-1/src/com/group6/b2c/pojo
+END
+Product.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/b2c/!svn/ver/35/b2c-1/src/com/group6/b2c/pojo/Product.java
+END
+ProductType.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/b2c/!svn/ver/32/b2c-1/src/com/group6/b2c/pojo/ProductType.java
+END
+Comment.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/b2c/!svn/ver/35/b2c-1/src/com/group6/b2c/pojo/Comment.java
+END
+Address.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/b2c/!svn/ver/8/b2c-1/src/com/group6/b2c/pojo/Address.java
+END
+Cart.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/b2c/!svn/ver/14/b2c-1/src/com/group6/b2c/pojo/Cart.java
+END
+Code.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/b2c/!svn/ver/6/b2c-1/src/com/group6/b2c/pojo/Code.java
+END
+Order.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/b2c/!svn/ver/221/b2c-1/src/com/group6/b2c/pojo/Order.java
+END
+Payment.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/b2c/!svn/ver/14/b2c-1/src/com/group6/b2c/pojo/Payment.java
+END
+User.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/b2c/!svn/ver/8/b2c-1/src/com/group6/b2c/pojo/User.java
+END

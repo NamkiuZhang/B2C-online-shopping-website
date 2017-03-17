@@ -1,0 +1,26 @@
+@CHARSET "UTF-8";
+
+#tablehead{
+ background-color:#d3d7d4;
+ margin-top:90px;
+ width:90%
+}
+#tablehead th{
+ width:200
+}
+.firstline{
+	align:left;
+	width:200
+}
+.thirdline{width:200}
+.secondline{height:150px;
+  
+}
+th{text-align:center;
+ 
+ }
+td{text-align:center;
+}
+a{color:#000}
+a:hover{color:#1d953f}
+img{height:120; width:120}

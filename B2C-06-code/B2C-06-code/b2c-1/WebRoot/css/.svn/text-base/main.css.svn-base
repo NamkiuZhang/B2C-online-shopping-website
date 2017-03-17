@@ -1,0 +1,243 @@
+#top{
+  	position:absolute;
+  	z-index:10;
+  	width:100%;
+  	height:40px;
+  	background:#EEEEEE;
+  	border-bottom:solid #DDDDDD;
+  	border-width:1px;
+  	top:0px;
+  	left:0px;
+  }
+  #top_left{
+  	float:left;
+  	margin-left:15%;
+  	margin-top:12px;
+  }
+  #top_right{
+  	float:right;
+  	margin-right:15%;
+  }
+  #top_right img{
+  	height:26px;
+  	width:26px;
+  	margin-right:8px;
+  	margin-top:5px;
+  	display:inline; 	
+  }
+  #top_right a{
+  	position:relative;
+  	bottom:5px;
+  	margin-bottom:8px;
+  }
+   #middle,#bottom,#head{
+  	margin:0px auto;
+  	width:80%;
+  	min-width:700px;
+  }
+  #head{
+  	border:solid white;
+  	margin-top:60px;
+  	padding-top:50px;
+  	height:150px;
+  }
+  
+  #search,#logo{
+  	float:left;
+  }
+  #logo img{
+  	height:90px;
+  	width:120px;
+  	margin-right:40px;
+  	margin-left:40px;
+  	display:inline;
+  	
+  }
+  #search{
+  	margin-top:12px;
+  	padding-bottom:0px;
+  	width:70%;
+  }
+  #search_input, #search_btn{
+  	float:left;
+  	height:50px;
+  	margin:0px;
+  }
+  #search_input{
+  	margin-left:15px;
+  	width:75%;
+  	border:solid #1FD1B7;
+  	font-size:25px;
+  	padding-left:5px;
+  	padding-top:15px;
+  }
+  #search_btn{
+  	background:#1FD1B7;
+  	border:solid #1FD1B7;
+  	width:80px;
+  	height:70px;
+  	font-weight:bold;
+  	color:white;
+  	font-size:20px;
+  	padding-left:5px;
+  }
+  
+  #product_class{
+  	height:50px;
+  	margin-top:150px;
+  	position:relative;
+  	background:#1FD1B7;
+  }
+  #first_class li{
+  	float:left;
+  	padding-left:6px;
+  	padding-right:6px;
+  	list-style-type:none;
+  }
+   #first_class  a{
+   	display:block;
+   	color: white;
+   	float:left;
+   	text-decoration:none;
+   }
+   #first_class a{
+   	display:block;
+   	height:40px;
+   	padding-right:10px;
+   	padding-left:10px;
+   	padding-top:10px;
+   	font-weight:bold;
+   	font-size:20px;
+   }
+  #hot1,#hot2,#hot3,#hot4,#hot5{
+  	position:absolute;
+  	width:100%;
+  	height:500px;
+  	left:0px;
+  	top:20px;
+  	z-index:1;
+  }
+   #hot1{
+   	z-index:2;
+   }
+  #image_switch{
+  	position:relative;
+  	width:100%;
+  	height:500px;
+  	z-index:0;
+  	top:20px;
+  }
+  #bottom{
+  	position:relative;
+  	top:50px;
+  }
+  #bottom table,#bottom table tr{
+  	width:100%;
+  }
+  
+  
+  #bottom table td{
+  	width:33%;
+  }
+  
+  
+  #bottom table div img{
+  	height:200px;
+  	padding:3px;
+  	margin:30px;
+  }
+   #bottom table div{
+   	border:solid #1FD1B7;
+   	margin:20px;
+   	position:relative;
+   	border-width:1px;
+   }
+    #bottom table div span{
+    	position:absolute;
+    	right:0px;
+    	bottom:0px;
+    	padding-left:5px;
+    	padding-bottom:2px;
+    	padding-top:2px;
+    	padding-right:3px;
+    	font-size:20px;
+    	display:block;
+    	background-color:#1FD1B7;
+    	color:white;
+    	text-decoration:none;
+    }
+    #bottom table div strong{
+    	color:#CCCCCC;
+    }
+    #more{
+    	text-align:center;
+    	padding-bottom:8px;
+    	padding-top:3px;
+    	-moz-user-select:-moz-none;
+    }
+    #more a{
+    	border:solid #1FD1B7 thin;
+    	padding-right:3px;
+    	padding-left:3px;
+    	color:black;
+    }
+    #products1{
+    	background:#1FD1B7;
+    	color:white;
+    }
+  
+    #middle{
+    	position:relative;
+    }
+    #current{
+    	position:absolute;
+    	border:#FF6600 solid;
+    	border-width:1px;
+    	z-index:9;
+    }
+     #left_one, #right_one{
+     	position:absolute;
+     	bottom:160px;
+     	background:#AAAAAA;
+     	filter: alpha(opacity=30);
+     	-moz-opacity: 0.5; 
+        opacity: 0.3;  
+        z-index:9;
+        -moz-user-select:-moz-none;
+     }
+     #left_one{
+     	left:3px;
+     	
+     }
+     #right_one{
+     	right:3px;
+     }
+     #left_one a,#right_one a{
+     	display:block;
+     	padding:15px;
+     	font-size:30px;
+     	font-weight:bold;
+     	color:white;
+     	text-decoration:none;
+     }
+     #current{
+     	bottom:3px;
+     	right:100px;
+     	border:none;
+     }
+     #current img{
+     	padding:4px;
+		display:inline;
+		width:10px;
+		height:10px;
+     }
+     #tail{
+     	margin-top:100px;
+ 		width:100%;
+ 		height:40px;
+ 		padding-top:10px;
+ 		border-top:solid  #DDDDDD;
+ 		border-width:1px;
+ 		text-align:center;
+ 		background:#EEEEEE;
+     }

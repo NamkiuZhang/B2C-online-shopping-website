@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/b2c/!svn/ver/221/b2c-1/src/com/group6/b2c/viewbean
+END
+CodeVo.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/b2c/!svn/ver/6/b2c-1/src/com/group6/b2c/viewbean/CodeVo.java
+END
+Ordervo.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/b2c/!svn/ver/10/b2c-1/src/com/group6/b2c/viewbean/Ordervo.java
+END
+ViewProductVo.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/b2c/!svn/ver/144/b2c-1/src/com/group6/b2c/viewbean/ViewProductVo.java
+END
+UserVo.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/b2c/!svn/ver/33/b2c-1/src/com/group6/b2c/viewbean/UserVo.java
+END
+Ordersvo.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/b2c/!svn/ver/221/b2c-1/src/com/group6/b2c/viewbean/Ordersvo.java
+END
+ProductVo.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/b2c/!svn/ver/43/b2c-1/src/com/group6/b2c/viewbean/ProductVo.java
+END
+CommentVo.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/b2c/!svn/ver/39/b2c-1/src/com/group6/b2c/viewbean/CommentVo.java
+END
+ProductTypeVo.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/b2c/!svn/ver/42/b2c-1/src/com/group6/b2c/viewbean/ProductTypeVo.java
+END
+AddressVo.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/b2c/!svn/ver/8/b2c-1/src/com/group6/b2c/viewbean/AddressVo.java
+END
+Postvo.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/b2c/!svn/ver/11/b2c-1/src/com/group6/b2c/viewbean/Postvo.java
+END
+IndexVo.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/b2c/!svn/ver/40/b2c-1/src/com/group6/b2c/viewbean/IndexVo.java
+END
+RecommendVo.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/b2c/!svn/ver/38/b2c-1/src/com/group6/b2c/viewbean/RecommendVo.java
+END

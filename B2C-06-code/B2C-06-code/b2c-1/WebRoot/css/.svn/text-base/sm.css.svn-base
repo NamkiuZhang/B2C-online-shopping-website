@@ -1,0 +1,118 @@
+@CHARSET "UTF-8";
+ 
+   #hot1,#hot2,#hot3,#hot4,#hot5{
+  	position:absolute;
+  	 width:970px;
+  	height:500px;
+  	left:0px;
+  	top:0px;
+  	z-index:1;
+  	align:center;
+ 
+  }
+   #hot1{
+   	z-index:2;
+   }
+  #image_switch{
+  	position:relative;
+  	width:100%;
+  	height:300px;
+  	z-index:0;
+  }
+   #bottom table div img{
+  	width:96%;
+  	height:200px;
+  	padding:5px;
+  }
+  tr,td{width:400px;
+      height:400px;
+      
+  }
+   #bottom table div{
+   	border:solid #0C9;
+   	position:relative;
+   	border-width:1px;
+    
+   }
+   #bottom{padding-bottom:70px;
+     padding-top:70px;
+     margin-left:127px;
+     }
+#bottom table{ padding-top:0px; }
+    #bottom table div span{
+    	position:absolute;
+    	right:1px;
+    	bottom:120px;
+    	padding-left:8px;
+    	padding-bottom:2px;
+    	padding-top:8px;
+    	padding-right:10px;
+    	font-size:20px;
+    	display:block;
+    	color:white;
+    	background-color:#0C9;
+    	width:25px;
+    
+    }
+    #bottom table div strong{
+    	color:#999;
+    }
+    #more{
+    	text-align:center;
+    	padding-bottom:30px;
+    	padding-top:3px;
+    	-moz-user-select:-moz-none;
+         margin-left:127px;
+    	
+    }
+    #more a{
+    	border:solid #0C9 thin;
+    	padding-right:3px;
+    	padding-left:3px;
+    
+    }
+    #products1{
+    	background:#1FD1B7;
+    }
+ #current{
+    	position:absolute;
+    	border:#FF6600 solid;
+    	border-width:1px;
+    	z-index:9;
+    }
+     #left_one, #right_one{
+     	position:absolute;
+     	bottom:0px;
+     	background:#0C9;
+     	filter: alpha(opacity=30);
+     	-moz-opacity: 0.5; 
+        opacity: 0.3;  
+        z-index:9;
+        -moz-user-select:-moz-none;
+     }
+     #left_one{
+     	left:3px;
+     	
+     }
+     #right_one{
+     	right:3px;
+     }
+     #left_one a,#right_one a{
+     	display:block;
+     	padding:15px;
+     	font-size:30px;
+     	font-weight:bold;
+     	color:white;
+     	text-decoration:none;
+     }
+     #current{
+     	bottom:50px;
+     	right:100px;
+     	border:none;
+     }
+     #current img{
+     	padding:4px;
+		display:inline;
+		width:10px;
+		height:10px;
+     }

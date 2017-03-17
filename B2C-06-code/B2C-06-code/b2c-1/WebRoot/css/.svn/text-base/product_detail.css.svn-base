@@ -1,0 +1,232 @@
+ 
+ body{
+ 	overflow-x:hidden;
+ }
+ #detail_bottom li{
+  	float:left;
+  	padding-left:6px;
+  	padding-right:6px;
+  	list-style-type:none;
+  }
+  		
+  	#detail{
+	  	margin-left:auto;
+	  	margin-right:auto;
+	  	width:80%;
+	  	min-width:700px;
+  	}
+  	
+  	#detail_top{
+  		height:355px;
+  		border:#1FD1B7 thin solid;
+  		margin-bottom:5px;
+  	}
+  	#detail_top div{
+  		display:inline;
+  		float:left;
+  	}
+  	#product_img{
+  		width:40%;
+  		height:300px;
+  		padding-left:5px;
+  		position:relative;
+  		top:5px;
+  		margin:10px;
+  	}
+  	#product_img img{
+  		width:100%;
+  		height:300px;
+  		
+  	}
+  	#product_desc{
+  		width:42%;
+  		height:300px;
+  		padding-left:5%;
+  		padding-right:5%;
+  		margin-left:5%;
+  		position:relative;
+  		top:5px;
+  		background:#EEEFEE;
+  		margin:10px;
+  	}
+  	#name{
+  		display:block;
+  		border-bottom: gray dashed thin;
+  		padding-bottom:3px;
+  		font-weight:bold;
+  	}
+  	#price{
+  		font-weight:bold;
+  		color:orange;
+  		font-size:1.2em;
+  	}
+  	#comment{
+  		font-weight:bold;
+  		margin-left:3px;
+  		color:orange;
+  		margin-right:5px;
+  	}
+
+  	
+  	#detail_bottom{
+  		min-height:300px;
+  		background:#EEEFEE;
+  		border:#1FD1B7 thin solid;
+  		margin-bottom:5px;
+  		padding-top:0;
+  		width:100%;
+  	}
+  	.bottom_div1{
+  		position:relative;	
+  		bottom:16px;
+  		height:40px;
+  		background:#1FD1B7;
+  		margin-top:0;
+  	}
+  	.bottom_div1 li{
+  		padding-top:8px;
+  		height:32px;
+  	}
+  	#num_input{
+  		margin-bottom:5px;
+  		width:40px;
+  	}
+  	#product_detail{
+  		background:#EEEEEE;
+  		color:black;
+  		font-weight:bold;
+  	}
+	#product_comment{
+		color:white;
+		font-weight:bold;
+	}
+  	
+  	#comments{
+  		width:100%;
+  		position:absolute;
+  		left:0px;
+  		top:-20px;
+  		display:none;
+  	}
+  	#allComments{
+  		width:60%;
+  		float:left;
+  		display:inline;
+  	}
+  	#editComment{
+  		width:30%;
+  		float:right;
+  		display:inline;
+  		position:relative;
+  		border-left:gray solid thin;
+  		height:250px;
+  		margin-right:10px;
+  		padding-left:10px;
+  		top:5px;
+  	}
+  	#star{
+  		font-size:10px;
+  		position:relative;
+  		right:115px;
+  		bottom:0px;
+  		width:100%;
+  	}
+  	#comment_content{
+  		width:100%;
+  		position:absolute;
+  		top:100px;
+  		left:10px;
+  	}
+  	
+  	
+  	#textarea{
+  		resize:none;
+  		width:92%;
+  		height:100px;
+  		margin-top:14px;
+  		position:relative;
+  		z-index:-1px;
+  	}
+  	#text_sbt{
+  		float:right;
+  		margin-right:20px;
+  		background:#1FD1B7;
+  		border:solid thin #1FD1B7;
+  		width:93%;
+  		height:30px;
+  	}
+  	
+  	#allComments{
+  		width:65%;
+  		overflow-y:auto; 
+  		height:258px;
+  		position:relative;
+  		top:5px;
+  	}
+  	
+  	.c_content{
+  		font-size:10px;
+  		padding-left:10px;
+  		padding-right:70px;
+  	}
+  	.c_content,.name,.time{
+  		clear:right;
+  	}
+  	.comment_item{
+  		height:60px;
+  		position:relative;
+  		border-bottom:gray solid thin;
+  		padding-bottom:5px;
+  	}
+  	#c_score{
+  		float:right;
+  		width:60px;
+  		height:72px;
+  		position:absolute;
+  		top:-15px;
+  		right:0px;
+  		line-height:72px;
+  		text-align:center;
+  		color:orange;
+  		font-size:25px;
+  		font-weight:bold;
+  	}
+  	
+  	.time{
+  		margin-left:10px;
+  		margin-right:15px;
+  		color:gray;
+  	}
+  	.name{
+  		color:gray;
+  		font-weight:bold;
+  	}
+  	.bottom_div2{
+  		position:relative;
+  	}
+  	#ddetail{
+  		width:100%;
+  		position:absolute;
+  		left:0px;
+  		top:-20px;
+  		display:block;
+  		padding-left:10px;
+  	}
+  	 
+  	 .dddetail{
+  	 	float:left;
+  	 	width:30%;
+  	 	height:110px;
+  	 	margin-right:15px;
+  	 	margin-top:10px;
+  	 	
+  	 }
+  	 
+  	 .dddetail p {
+  	 	line-height:15px;
+  	 	font-size:15px;
+  	 }
+  	 
+  	 #addbtn{
+  	 	
+  	 }

@@ -1,0 +1,347 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/b2c/!svn/ver/244/b2c-1/WebRoot
+END
+useraddress.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/b2c/!svn/ver/216/b2c-1/WebRoot/useraddress.jsp
+END
+queryCustomer.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/b2c/!svn/ver/227/b2c-1/WebRoot/queryCustomer.jsp
+END
+modifyOrderStatus.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/b2c/!svn/ver/227/b2c-1/WebRoot/modifyOrderStatus.jsp
+END
+admin.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/b2c/!svn/ver/33/b2c-1/WebRoot/admin.jsp
+END
+i.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/b2c/!svn/ver/19/b2c-1/WebRoot/i.jsp
+END
+header.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/b2c/!svn/ver/227/b2c-1/WebRoot/header.jsp
+END
+myhomesidebar.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/b2c/!svn/ver/216/b2c-1/WebRoot/myhomesidebar.jsp
+END
+listOrderWithSC.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/b2c/!svn/ver/229/b2c-1/WebRoot/listOrderWithSC.jsp
+END
+left.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/b2c/!svn/ver/242/b2c-1/WebRoot/left.jsp
+END
+print.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/b2c/!svn/ver/113/b2c-1/WebRoot/print.jsp
+END
+listCustomer.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/b2c/!svn/ver/227/b2c-1/WebRoot/listCustomer.jsp
+END
+deleteOrder.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/b2c/!svn/ver/236/b2c-1/WebRoot/deleteOrder.jsp
+END
+myHome.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/b2c/!svn/ver/216/b2c-1/WebRoot/myHome.jsp
+END
+products_list.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/b2c/!svn/ver/191/b2c-1/WebRoot/products_list.jsp
+END
+queryManager.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/b2c/!svn/ver/227/b2c-1/WebRoot/queryManager.jsp
+END
+queryOrder.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/b2c/!svn/ver/227/b2c-1/WebRoot/queryOrder.jsp
+END
+managerIndex.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/b2c/!svn/ver/229/b2c-1/WebRoot/managerIndex.jsp
+END
+top.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/b2c/!svn/ver/227/b2c-1/WebRoot/top.jsp
+END
+ipay.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/b2c/!svn/ver/218/b2c-1/WebRoot/ipay.jsp
+END
+icart.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/b2c/!svn/ver/230/b2c-1/WebRoot/icart.jsp
+END
+product_detail.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/b2c/!svn/ver/218/b2c-1/WebRoot/product_detail.jsp
+END
+addProdClass.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/b2c/!svn/ver/227/b2c-1/WebRoot/addProdClass.jsp
+END
+modiDelClass.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/b2c/!svn/ver/227/b2c-1/WebRoot/modiDelClass.jsp
+END
+deleteProductType.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/b2c/!svn/ver/237/b2c-1/WebRoot/deleteProductType.jsp
+END
+listOrder.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/b2c/!svn/ver/227/b2c-1/WebRoot/listOrder.jsp
+END
+myhomeheader.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/b2c/!svn/ver/8/b2c-1/WebRoot/myhomeheader.jsp
+END
+mpwd.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/b2c/!svn/ver/216/b2c-1/WebRoot/mpwd.jsp
+END
+index.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/b2c/!svn/ver/238/b2c-1/WebRoot/index.jsp
+END
+manager.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/b2c/!svn/ver/33/b2c-1/WebRoot/manager.jsp
+END
+leftadm.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/b2c/!svn/ver/242/b2c-1/WebRoot/leftadm.jsp
+END
+right.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/b2c/!svn/ver/33/b2c-1/WebRoot/right.jsp
+END
+listType.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/b2c/!svn/ver/135/b2c-1/WebRoot/listType.jsp
+END
+querySoldout.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/b2c/!svn/ver/227/b2c-1/WebRoot/querySoldout.jsp
+END
+queryProdClass.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/b2c/!svn/ver/227/b2c-1/WebRoot/queryProdClass.jsp
+END
+register.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/b2c/!svn/ver/231/b2c-1/WebRoot/register.jsp
+END
+iorder.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/b2c/!svn/ver/218/b2c-1/WebRoot/iorder.jsp
+END
+modAddress.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/b2c/!svn/ver/227/b2c-1/WebRoot/modAddress.jsp
+END
+productDetails.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/b2c/!svn/ver/238/b2c-1/WebRoot/productDetails.jsp
+END
+manModpwd.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/b2c/!svn/ver/218/b2c-1/WebRoot/manModpwd.jsp
+END
+addProduct.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/b2c/!svn/ver/227/b2c-1/WebRoot/addProduct.jsp
+END
+userinfo.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/b2c/!svn/ver/216/b2c-1/WebRoot/userinfo.jsp
+END
+footer.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/b2c/!svn/ver/218/b2c-1/WebRoot/footer.jsp
+END
+ipost.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/b2c/!svn/ver/218/b2c-1/WebRoot/ipost.jsp
+END
+fpwd.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/b2c/!svn/ver/231/b2c-1/WebRoot/fpwd.jsp
+END
+ordetail.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/b2c/!svn/ver/218/b2c-1/WebRoot/ordetail.jsp
+END
+modifyProductInfo.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/b2c/!svn/ver/238/b2c-1/WebRoot/modifyProductInfo.jsp
+END
+queryProduct.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/b2c/!svn/ver/239/b2c-1/WebRoot/queryProduct.jsp
+END
+iorders.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/b2c/!svn/ver/218/b2c-1/WebRoot/iorders.jsp
+END
+CustomerDetails.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/b2c/!svn/ver/227/b2c-1/WebRoot/CustomerDetails.jsp
+END
+login.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/b2c/!svn/ver/227/b2c-1/WebRoot/login.jsp
+END
+listProduct.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/b2c/!svn/ver/243/b2c-1/WebRoot/listProduct.jsp
+END
+managerDetails.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/b2c/!svn/ver/238/b2c-1/WebRoot/managerDetails.jsp
+END
+adminIndex.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/b2c/!svn/ver/227/b2c-1/WebRoot/adminIndex.jsp
+END
+listFinishedOrder.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/b2c/!svn/ver/236/b2c-1/WebRoot/listFinishedOrder.jsp
+END
+fpwd2.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/b2c/!svn/ver/231/b2c-1/WebRoot/fpwd2.jsp
+END
+fpwd3.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/b2c/!svn/ver/231/b2c-1/WebRoot/fpwd3.jsp
+END
+addManager.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/b2c/!svn/ver/227/b2c-1/WebRoot/addManager.jsp
+END

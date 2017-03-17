@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/b2c/!svn/ver/240/b2c-1/src/com/group6/b2c/dao
+END
+OrderDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/b2c/!svn/ver/219/b2c-1/src/com/group6/b2c/dao/OrderDao.java
+END
+UserDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/b2c/!svn/ver/96/b2c-1/src/com/group6/b2c/dao/UserDao.java
+END
+ProductDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/b2c/!svn/ver/197/b2c-1/src/com/group6/b2c/dao/ProductDao.java
+END
+ProductTypeDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/b2c/!svn/ver/193/b2c-1/src/com/group6/b2c/dao/ProductTypeDao.java
+END
+CommentDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/b2c/!svn/ver/151/b2c-1/src/com/group6/b2c/dao/CommentDao.java
+END
+AddressDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/b2c/!svn/ver/54/b2c-1/src/com/group6/b2c/dao/AddressDao.java
+END
+CartDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/b2c/!svn/ver/240/b2c-1/src/com/group6/b2c/dao/CartDao.java
+END
+PayDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/b2c/!svn/ver/15/b2c-1/src/com/group6/b2c/dao/PayDao.java
+END
+BaseDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/b2c/!svn/ver/5/b2c-1/src/com/group6/b2c/dao/BaseDao.java
+END
+CodeDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/b2c/!svn/ver/8/b2c-1/src/com/group6/b2c/dao/CodeDao.java
+END

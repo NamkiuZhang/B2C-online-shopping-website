@@ -1,0 +1,31 @@
+﻿@charset "utf-8";
+/*
+*
+* webname:维度端前端网
+* website:http://www.weiduduan.com/
+* author:vdu
+* qq:2210682628
+*
+*/
+
+/* clearfix */
+.clearfix{ *zoom:1;}
+.clearfix:after{ display:table; line-height:0; content:""; clear:both;}
+
+/* public.omission */
+.fl{ float:left;}            .fr{ float:right;}            .tc{ text-align:center;}      .tr{ text-align:right;} 
+.fb{ font-weight:bold;}      .f12{ font-size:12px;}        h3{ font-weight:normal;}      .listop{ padding-top:15px;}
+.mr10{ margin-right:10px;}   .mr15{ margin-right:15px;}    .mL10{ margin-left:10px;}     .mL15{ margin-left:15px;}
+.mt10{ margin-top:10px;}     .mt15{ margin-top:15px;}      .mb10{ margin-bottom:10px;}   .mb15{ margin-bottom:15px;}
+
+/* weiduduan */
+.weiduduan{ width:550px; margin:15px auto 0 auto;}
+#star{position:relative;width:300px;margin:0 auto;height:24px;}
+#star ul,#star span{float:left;display:inline;height:19px;line-height:19px;}
+#star ul{margin:0 10px;}
+#star li{float:left;width:24px;cursor:pointer;text-indent:-9999px;background:url(../imgs/star/star.png) no-repeat;}
+#star strong{color:#f60;padding-left:10px;}
+#star li.on{background-position:0 -28px;}
+#star p{position:absolute;top:20px;width:159px;height:60px;display:none;background:url(../imgs/star/icon.gif) no-repeat;padding:7px 10px 0;}
+#star p em{color:#f60;display:block;font-style:normal;}
+/* 维度端前端网整理 http://www.weiduduan.com */

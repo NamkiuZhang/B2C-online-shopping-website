@@ -1,0 +1,92 @@
+	#greybg  {
+    background:#e8e8e8; -moz-border-radius:3px; -webkit-border-radius:3px;border-radius:3px;padding:20px;margin:20px 50px 55px ;position:relative;
+    }
+    h1 {
+    color:#1FD1B7; font-family:'Î¢ÈíÑÅºÚ'; font-size:20px; margin-left:50px;
+     }
+     
+     h2{
+       color:black;font-family:'Î¢ÈíÑÅºÚ'; font-size:20px;
+     }
+     
+     h3{
+       align:center; color:#1FD1B7;font-size:30px;font-family:'Î¢ÈíÑÅºÚ';
+     }
+     
+     @charset "utf-8";
+/* CSS Document */
+html,body,div,span,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,address,big,cite,code,del,em,font,img,ins,small,strong,var,b,u,i,center,dl,dt,dd,ol,ul,li,fieldset,form,label,legend{margin:0;padding:0;}
+ol,ul{list-style:none;}:focus{outline:0;}a img{border:0;}img{vertical-align:middle;}table{empty-cells:show;}ins{text-decoration:none;}del{text-decoration:line-through;}h1{font-size:20px;font-family:Arial,Lucida,Verdana,"microsoft yahei","ËÎÌå",Helvetica,sans-serif;}h2{font-size:14px;}h3{font-size:14px;}h4{font-size:12px;}h5{font-size:12px;}h6{font-size:12px;}
+a:link{color: #000;text-decoration:none; }
+a:visited {	
+	text-decoration: underline;
+}
+a:hover, a:active, a:focus {
+	text-decoration:underline;
+	color:#F00;
+}
+body{margin:0 auto;}
+
+.container{width:990px;padding:0;margin:10px auto;zoom:1;}
+.w{width:990px;padding:0;margin:10px auto;zoom:1;}
+.w1{width:890px;margin:0 auto;}
+#logo{padding:10px 0;}
+.logo-bg{padding-left:30px;font-size:24px;font-family:arial,"ËÎÌå"; font-style:#ffffff;}
+#addManager{ background:#e8e8e8;-moz-border-radius:3px; -webkit-border-radius:3px;border-radius:3px;padding:5px;margin:0 auto 55px 50px;position:relative;}
+#addManager .text{float:none;width:250px;height:24px;line-height:24px;padding:4px 20px 4px 3px;border:1px solid #cccccc;font-size:14px;font-family:arial,"ËÎÌå";}
+#addManager .label{width:100px;text-align:left;font-size:14px; margin:10px 10px 10px 0;}
+#addManager .item{padding-top:9px;height:55px;line-height:34px;position:relative;z-index:1;}
+.form label,.form input,.form select,.form textarea,.form button,.form .label{float:left;font-size:12px;}
+
+
+
+.tit{float:left;line-height:32px;font-size:20px;font-family:"microsoft yahei";margin-right:15px;
+float:left;width:100%;color:#333;padding:10px 0;}
+.tit a{color:#333;}
+.tit a:hover{color:#1FD1B7; text-decoration:none;}
+
+ul.nav {
+	list-style: none; 
+	margin-bottom: 15px;
+}
+.nav .label{
+	font-size:18px;font-family:arial,"ËÎÌå";
+	line-height:44px;
+	color: #42413C;
+	padding-top:20px;
+}
+ul.nav li {
+	font-size:16px;font-family:arial,"ËÎÌå";
+	line-height:24px;
+}
+ul.nav a, ul.nav a:visited {
+	padding: 5px 5px 5px 15px;
+	display: block; 
+	width: 100px;  
+	text-decoration: none;
+	color: #42413C;
+}
+
+ul.nav a:link {
+	color: #42413C;
+}
+
+ul.nav a:hover, ul.nav a:active, ul.nav a:focus{ 
+	color: #FFF;
+}
+
+.content {
+	padding: 10px 0;
+	width: 860px;
+	height:700px;
+	float: left;
+	border:1px solid #cccccc;
+}
+
+.content .label{
+	font-size:18px;font-family:arial,"ËÎÌå";
+	line-height:44px;
+	padding:20px 40px;
+}
+.content .item{padding:9px 60px;height:55px;line-height:34px;position:relative;z-index:1;color: #42413C;}
+     

@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/b2c/!svn/ver/239/b2c-1/src/com/group6/b2c/service
+END
+UserService.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/b2c/!svn/ver/239/b2c-1/src/com/group6/b2c/service/UserService.java
+END
+SubmenuService.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/b2c/!svn/ver/50/b2c-1/src/com/group6/b2c/service/SubmenuService.java
+END
+LoadService.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/b2c/!svn/ver/48/b2c-1/src/com/group6/b2c/service/LoadService.java
+END
+ProductService.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/b2c/!svn/ver/176/b2c-1/src/com/group6/b2c/service/ProductService.java
+END
+CommentService.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/b2c/!svn/ver/227/b2c-1/src/com/group6/b2c/service/CommentService.java
+END
+ProductTypeService.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/b2c/!svn/ver/193/b2c-1/src/com/group6/b2c/service/ProductTypeService.java
+END
+AddressService.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/b2c/!svn/ver/8/b2c-1/src/com/group6/b2c/service/AddressService.java
+END
+PostService.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/b2c/!svn/ver/159/b2c-1/src/com/group6/b2c/service/PostService.java
+END
+SearchService.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/b2c/!svn/ver/144/b2c-1/src/com/group6/b2c/service/SearchService.java
+END
+CartService.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/b2c/!svn/ver/118/b2c-1/src/com/group6/b2c/service/CartService.java
+END
+CodeService.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/b2c/!svn/ver/8/b2c-1/src/com/group6/b2c/service/CodeService.java
+END
+OrderService.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/b2c/!svn/ver/222/b2c-1/src/com/group6/b2c/service/OrderService.java
+END
+ViewProductService.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/b2c/!svn/ver/144/b2c-1/src/com/group6/b2c/service/ViewProductService.java
+END

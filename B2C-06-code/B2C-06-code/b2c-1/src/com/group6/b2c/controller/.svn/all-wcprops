@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/b2c/!svn/ver/240/b2c-1/src/com/group6/b2c/controller
+END
+KeyWordsSearchServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/b2c/!svn/ver/34/b2c-1/src/com/group6/b2c/controller/KeyWordsSearchServlet.java
+END
+CommentServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/b2c/!svn/ver/152/b2c-1/src/com/group6/b2c/controller/CommentServlet.java
+END
+TypeSearchServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/b2c/!svn/ver/34/b2c-1/src/com/group6/b2c/controller/TypeSearchServlet.java
+END
+OrderServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/b2c/!svn/ver/240/b2c-1/src/com/group6/b2c/controller/OrderServlet.java
+END
+ViewProductServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/b2c/!svn/ver/34/b2c-1/src/com/group6/b2c/controller/ViewProductServlet.java
+END
+UserServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/b2c/!svn/ver/229/b2c-1/src/com/group6/b2c/controller/UserServlet.java
+END
+SubmenuServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/b2c/!svn/ver/46/b2c-1/src/com/group6/b2c/controller/SubmenuServlet.java
+END
+LoadServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/b2c/!svn/ver/207/b2c-1/src/com/group6/b2c/controller/LoadServlet.java
+END
+ProductServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/b2c/!svn/ver/226/b2c-1/src/com/group6/b2c/controller/ProductServlet.java
+END
+ProductTypeServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/b2c/!svn/ver/224/b2c-1/src/com/group6/b2c/controller/ProductTypeServlet.java
+END
+FileUploadServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/b2c/!svn/ver/179/b2c-1/src/com/group6/b2c/controller/FileUploadServlet.java
+END
+AddressServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/b2c/!svn/ver/205/b2c-1/src/com/group6/b2c/controller/AddressServlet.java
+END
+PostServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/b2c/!svn/ver/209/b2c-1/src/com/group6/b2c/controller/PostServlet.java
+END
+CartServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/b2c/!svn/ver/240/b2c-1/src/com/group6/b2c/controller/CartServlet.java
+END
+PayServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/b2c/!svn/ver/157/b2c-1/src/com/group6/b2c/controller/PayServlet.java
+END
